@@ -1,0 +1,20 @@
+2024-02-14 12:39:36.930 - Info	
+Packing C:\Users\ciara\Desktop\Projects\CurrencyControl_PCF\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2024-02-14 12:39:36.946 - Info	Processing Component: Entities
+2024-02-14 12:39:36.946 - Info	Processing Component: Roles
+2024-02-14 12:39:36.946 - Info	Processing Component: Workflows
+2024-02-14 12:39:36.946 - Info	Processing Component: FieldSecurityProfiles
+2024-02-14 12:39:36.946 - Info	Processing Component: Templates
+2024-02-14 12:39:36.946 - Info	Processing Component: EntityMaps
+2024-02-14 12:39:36.946 - Info	Processing Component: EntityRelationships
+2024-02-14 12:39:36.946 - Info	Processing Component: OrganizationSettings
+2024-02-14 12:39:36.946 - Info	Processing Component: optionsets
+2024-02-14 12:39:36.946 - Info	Processing Component: CustomControls
+2024-02-14 12:39:36.946 - Info	 - Ciarank.CurrencyControlPCF
+2024-02-14 12:39:36.961 - Info	Processing Component: SolutionPluginAssemblies
+2024-02-14 12:39:36.961 - Info	Processing Component: EntityDataProviders
+2024-02-14 12:39:36.961 - Info	Processing Sharded Component Files
+2024-02-14 12:39:36.978 - Info	
+Unmanaged Pack complete.
+

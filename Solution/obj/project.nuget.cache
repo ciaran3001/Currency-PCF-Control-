@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c1neGY7KLz28mlxLfCAuWEcsW4pHabMJPi/YEqyt845Wd8dJKe3vjei5z4s+KVWD7InN11cwvc32BpKvtmewg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ciara\\Desktop\\Projects\\CurrencyControl_PCF\\Solution\\Solution.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ciara\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\ciara\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\ciara\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.30.2\\microsoft.powerapps.msbuild.pcf.1.30.2.nupkg.sha512",
+    "C:\\Users\\ciara\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.30.2\\microsoft.powerapps.msbuild.solution.1.30.2.nupkg.sha512"
+  ],
+  "logs": []
+}

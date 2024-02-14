@@ -1,0 +1,2 @@
+C:\Users\ciara\Desktop\Projects\CurrencyControl_PCF\Solution\obj\Debug\Solution.cdsproj.AssemblyReference.cache
+C:\Users\ciara\Desktop\Projects\CurrencyControl_PCF\Solution\obj\Debug\Solution.cdsproj.CoreCompileInputs.cache
